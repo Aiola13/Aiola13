@@ -12,5 +12,5 @@ Ma todolist ☑️ :
 
 ## Où suis-je ? 🔍 :
 - <a href="https://www.instagram.com/loic.drnd13/">Instagram</a> 
-- <a href="https://fr.linkedin.com/in/loic-durand">instagraLinkedIn</a>
+- <a href="https://fr.linkedin.com/in/loic-durand">LinkedIn</a>
 - <a href="https://www.facebook.com/#">Facebook</a>
