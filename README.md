@@ -14,15 +14,13 @@ Les personnes inpirantes :
 
 > “C'est facile de critiquer mais il faut alors proposer d'autres solutions, avec de la créativité et un peu de folie, beaucoup de conviction et un grand sens de l'autodérision.” | Xavier Niel 
 
-> “L'échec est une option ici. Si les choses n'échouent pas, vous n'innovez pas assez” | Elon Musk
-
 > “Parmis les trucs que j'ai fait et qui ont bien marché, si j'avais exposées mes idées à l'époque, tout le monde m'aurait dit "Ne fais pas ça"” | Alexandre Astier
 
 Ma todolist ☑️ :
 - ✔ : Voyager au Canada 🍁[💗]
+- ✔ : Voyager à la Réunion 🇷🇪[💗]
 - 🔲 : Voyager au Japon 🔴, 
 - 🔲 : Voyager en Australie 🦘,   
-- 🔲 : retourner au Canada 🍁[💗]
 
 <p><img width="1000" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></p>
   
